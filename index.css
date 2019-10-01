@@ -1,0 +1,26 @@
+.container{
+    align-items: center;
+}
+.modal-body {
+    display:block;
+    align-content:flex-start;
+}
+.icon{
+    width:200%;
+    height: 200%;
+}
+
+p{
+    color:rgba(15, 15, 117, 0.685);
+    text-align: center;
+    font-family: 'Lucida Sans', sans-serif;
+}
+.news-large img{
+    width: 100%;
+}
+
+.ipko{
+    width:30%;
+    height:30%;
+    margin: 0 auto;
+}
